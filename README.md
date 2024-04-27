@@ -50,6 +50,12 @@ git clone https://github.com/murilocb/teste-infratoken.git
 cd teste-infratoken
 ```
 
+Docker for MongoDB
+
+```bash
+docker compose up -d
+```
+
 Use npm to install
 
 ```bash
